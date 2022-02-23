@@ -29,7 +29,7 @@ import tn.esponline.services.IUserService;
 		SimpleDateFormat df= new SimpleDateFormat("dd-mm-yyyy");
 		Date date= df.parse("22-05-2015");
 		l.info(userserv.addPersonne(p).getNom());
-		Assertions.assertEquals(userserv.addPersonne(p).getNom(), "amed");
+		Assertions.assertEquals(userserv.addPersonne(p).getNom(), "ahmed");
 	}
 
 }
