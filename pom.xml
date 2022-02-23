@@ -94,7 +94,7 @@
 </plugins>
 		</pluginManagement>
 	</build>
-	<!-- 
+	 
 <distributionManagement>
 <snapshotRepository>
 <id>nexus-snapshots</id>
@@ -104,5 +104,5 @@
 <id>nexus-releases</id>
 <url>http://localhost:8081/nexus/content/repositories/releases/</url>
 </repository>
-</distributionManagement>  -->
+</distributionManagement>  
 </project>
