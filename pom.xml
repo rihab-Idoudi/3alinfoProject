@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>tn.esponline</groupId>
 	<artifactId>3alinfo4</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>3alinfo4</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
